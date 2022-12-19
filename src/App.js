@@ -1,4 +1,4 @@
-import Costs from "./components/Costs";
+import Costs from './components/Costs'
 
 function App(props) {
   const costs = [
@@ -26,4 +26,4 @@ function App(props) {
   );
 }
 
-export default App;
+export default App
