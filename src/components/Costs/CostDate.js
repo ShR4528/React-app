@@ -18,4 +18,4 @@ function CostDate(props) {
 
 }
 
-export default CostDate;
+export default CostDate

@@ -1,11 +1,11 @@
-import Costs from './components/Costs'
+import Costs from './components/Costs/Costs'
 
-function App(props) {
+const App = () => {
   const costs = [
     {
       date: new Date(2022, 2, 12),
       description: 'Fridge',
-      amount: 999.99
+      amount: 999
     },
     {
       date: new Date(2022, 4, 19),
